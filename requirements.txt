@@ -24,3 +24,13 @@ rich
 questionary
 langchain_anthropic
 langchain-google-genai
+gradio
+transformers
+torch
+GoogleNews
+textblob
+beautifulsoup4
+tenacity
+scikit-learn
+plotly
+chronos-forecasting
